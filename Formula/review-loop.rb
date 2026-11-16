@@ -1,8 +1,8 @@
 class ReviewLoop < Formula
   desc "Enforced Codex adversarial review inside Claude Code"
   homepage "https://github.com/MostViableProduct/review-loop"
-  url "https://github.com/MostViableProduct/review-loop/releases/download/v1.2.0/review-loop-1.2.0.tar.gz"
-  sha256 "5d49edd505c22e8b853ed122e3b8f66985e91bba77b16c7b6471a5ce03b30dff"
+  url "https://github.com/MostViableProduct/review-loop/releases/download/v1.3.0/review-loop-1.3.0.tar.gz"
+  sha256 "ae9f379ca8c3e458224938b3850f5d841ca1808916c6a80b1aba1087bfb4bb3d"
   license "MIT"
 
   depends_on "git"
